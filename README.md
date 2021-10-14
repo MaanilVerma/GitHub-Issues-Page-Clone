@@ -1,2 +1,3 @@
 # GitHub-Issues-Page-Clone
-Created with CodeSandbox
+
+<a href = "https://githubissuespageclone.netlify.app/">Live Project</a>
